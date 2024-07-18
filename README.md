@@ -12,7 +12,7 @@ This project is a React application that fetches and displays posts from a publi
 ### Installation
 
 Clone the repository and install dependencies:
-git clone <repository_url>
+git clone https://github.com/Divya-Pyneni28/Frontend-API-Assessment.git
 cd frontend-api-assessment
 npm install
 
